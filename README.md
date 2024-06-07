@@ -3,7 +3,9 @@ Shell script to identify the year of bitrix version being used by the target bas
 
 ## Installation
 ```sh
-wget https://raw.githubusercontent.com/EvardMellow/bitrix-version/main/bitrix-version.sh && chmod +x bitrix-version.sh
+git clone https://github.com/faraui/bitrix-version-year-identifier.git
+cd bitrix-version-year-identifier
+chmod ugo+x bitrix-version.sh
 ```
 
 ## Usage

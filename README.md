@@ -1,5 +1,5 @@
 # Bitrix version year identifier
-Shell script to identify the year of bitrix version being used by the target based on the presence of `.js` files.
+Shell script to identify the year of bitrix version being used by the target based on the presence of `.js` files. Original concept and script by @EvaMellow.
 
 ## Installation
 ```sh
